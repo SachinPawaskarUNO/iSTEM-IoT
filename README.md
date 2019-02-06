@@ -9,7 +9,7 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
 * Introduction to IoT slides and video - 15 minutes
 * Reflection - 10 minutes
 
-  [Week 1](https://drive.google.com/open?id=1x9OGpw3oagNy78CzPcWpCijFoj0dta14)
+  [Introduction to Internet of Things (IoT)](https://drive.google.com/open?id=1x9OGpw3oagNy78CzPcWpCijFoj0dta14)
 
 # Week 2
 
