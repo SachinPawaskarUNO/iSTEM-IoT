@@ -66,9 +66,15 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
 * Discuss Beaglebone Activity components and downloads - 25 minutes
 * Reflection - 10 minutes
 
+  [Beaglebone Presentation]
+
+  [Beaglebone Presentation]: https://drive.google.com/open?id=1GdmE_rNTEK4-4bPZwd8uz173-r5CeTjy
+
 ## March 20th
 * Welcome/Agenda Review - 2 minutes
 * Go over Beaglebone activity presentation - 30
   * Installation of Beaglebone drivers - 10 minutes
   *  Go over circuit diagram and connect components- 20 minutes
 * Reflection - 10 minutes
+
+  [Beaglebone Presentation]
