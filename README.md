@@ -25,12 +25,12 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
 * Discuss DogBowl Activity components and downloads - 25 minutes
 * Reflection - 10 minutes
 
-  [DogBowl Presentation](https://drive.google.com/open?id=1Vjx98qgrHOb0J22CDgLreN1sCz7dzwO7)
+  [DogBowl Presentation]
   
   
   [DogBowl Respository]
   
-  
+  [DogBowl Presentation]: https://drive.google.com/open?id=1Vjx98qgrHOb0J22CDgLreN1sCz7dzwO7
   [Dogbowl Respository]: https://github.com/SachinPawaskarUNO/IoT-DogBowl
 # Week 3
 
@@ -40,11 +40,21 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
 * Complete downloads and connect components - 25 minutes
 * Reflection - 10 minutes
 
+  [DogBowl Presentation]
+  
+  
+  [DogBowl Respository]
+
 ## March 6th 
 * Welcome/Agenda Review - 2 minutes
 * Finish up DogBowl Activity - 25 minutes
 * Discussion - 10 minutes
 * Reflection - 10 minutes
+
+  [DogBowl Presentation]
+  
+  
+  [DogBowl Respository]
 
 # Week 4
 
