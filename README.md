@@ -56,9 +56,7 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
   
   [DogBowl Respository]
 
-# Week 4
-
-## Spring Break
+# Week 4 - Spring Break
 
 # Week 5 
 
