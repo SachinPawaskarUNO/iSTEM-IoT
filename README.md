@@ -79,6 +79,8 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
 
   [Beaglebone Presentation]
   
+  # Week 6
+  
   ## March 25th
   * Welcome/Agenda Review - 2 minutes
   * Work towards completing the Beaglebone activity - 20 minutes
@@ -91,6 +93,8 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
   * Answer questions relating to videos and IoT - 10 minutes
   * Reflection - 10 minutes
   
+  # Week 7
+  
   ## April 1st
   * Welcome/Agenda Review - 2 minutes
   * Recap the IoT components - 20 minutes
@@ -102,6 +106,8 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
   * Prepare presentations - 20 minutes
   * Given a problem how can it be solved through IoT - 10 minutes
   * Reflection - 10 minutes
+  
+  # Week 8
   
   ## April 8th
   * Welcome/Agenda Review - 2 minutes
