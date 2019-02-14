@@ -79,45 +79,45 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
 
   [Beaglebone Presentation]
   
-  # Week 6
+ # Week 6
   
-  ## March 25th
-  * Welcome/Agenda Review - 2 minutes
-  * Work towards completing the Beaglebone activity - 20 minutes
-  * Answer questions relating to Beaglebone activity - 10 minutes
-  * Reflection - 10 minutes
+ ## March 25th
+ * Welcome/Agenda Review - 2 minutes
+ * Work towards completing the Beaglebone activity - 20 minutes
+ * Answer questions relating to Beaglebone activity - 10 minutes
+ * Reflection - 10 minutes
   
-  ## March 27th
-  * Welcome/Agenda Review - 2 minutes
-  * Demonstrate the videos - 20 minutes
-  * Answer questions relating to videos and IoT - 10 minutes
-  * Reflection - 10 minutes
+ ## March 27th
+ * Welcome/Agenda Review - 2 minutes
+ * Demonstrate the videos - 20 minutes
+ * Answer questions relating to videos and IoT - 10 minutes
+ * Reflection - 10 minutes
   
-  # Week 7
+ # Week 7
   
-  ## April 1st
-  * Welcome/Agenda Review - 2 minutes
-  * Recap the IoT components - 20 minutes
-  * How to start the IoT projects from scratch - 10 minutes
-  * Reflection - 10 minutes
+ ## April 1st
+ * Welcome/Agenda Review - 2 minutes
+ * Recap the IoT components - 20 minutes
+ * How to start the IoT projects from scratch - 10 minutes
+ * Reflection - 10 minutes
   
-  ## April 3rd
-  * Welcome/Agenda Review - 2 minutes
-  * Prepare presentations - 20 minutes
-  * Given a problem how can it be solved through IoT - 10 minutes
-  * Reflection - 10 minutes
+ ## April 3rd
+ * Welcome/Agenda Review - 2 minutes
+ * Prepare presentations - 20 minutes
+ * Given a problem how can it be solved through IoT - 10 minutes
+ * Reflection - 10 minutes
   
-  # Week 8
+ # Week 8
   
-  ## April 8th
-  * Welcome/Agenda Review - 2 minutes
-  * Tour to Peter Kiewit Institute and visit Research Labs - 30 minutes
-  * Reflection - 10 minutes
+ ## April 8th
+ * Welcome/Agenda Review - 2 minutes
+ * Tour to Peter Kiewit Institute and visit Research Labs - 30 minutes
+ * Reflection - 10 minutes
   
-  ## April 10th
-  * Welcome/Agenda Review - 2 minutes
-  * Give students an opportunity to present their ideas - 20 minutes
-  * Summarize everything done over the course of 8 weeks - 10 minutes
-  * Reflection - 10 minutes
+ ## April 10th
+ * Welcome/Agenda Review - 2 minutes
+ * Give students an opportunity to present their ideas - 20 minutes
+ * Summarize everything done over the course of 8 weeks - 10 minutes
+ * Reflection - 10 minutes
   
   
