@@ -111,7 +111,7 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
   ## April 10th
   * Welcome/Agenda Review - 2 minutes
   * Give students an opportunity to present their ideas - 20 minutes
-  * Summarize everything done over the course of 12 weeks - 10 minutes
+  * Summarize everything done over the course of 8 weeks - 10 minutes
   * Reflection - 10 minutes
   
   
