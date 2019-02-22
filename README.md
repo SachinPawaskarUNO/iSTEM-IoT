@@ -7,9 +7,12 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
 * Welcome/Agenda Review - 2 minutes
 * Instructor and Student Introduction - 15 minutes
 * Introduction to IoT slides and video - 15 minutes
-* Reflection - 10 minutes
+* Reflection and iSTEM pre-survey - 10 minutes
+
+[iSTEM Survey]
 
 
+[iSTEM Survey]: https://www.ist.unomaha.edu/go/istempre
 # Week 2
 
 ## February 25th 
@@ -24,12 +27,11 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
 * Discuss DogBowl Activity components and downloads - 25 minutes
 * Reflection - 10 minutes
 
-  [DogBowl Presentation]
+  
   
   
   [DogBowl Respository]
   
-  [DogBowl Presentation]: https://drive.google.com/open?id=1Vjx98qgrHOb0J22CDgLreN1sCz7dzwO7
   [Dogbowl Respository]: https://github.com/SachinPawaskarUNO/IoT-DogBowl
 # Week 3
 
@@ -39,10 +41,9 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
 * Complete downloads and connect components - 25 minutes
 * Reflection - 10 minutes
 
-  [DogBowl Presentation]
+
   
   
-  [DogBowl Respository]
 
 ## March 6th 
 * Welcome/Agenda Review - 2 minutes
@@ -50,10 +51,10 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
 * Discussion - 10 minutes
 * Reflection - 10 minutes
 
-  [DogBowl Presentation]
+
   
   
-  [DogBowl Respository]
+ 
 
 # Week 4 - Spring Break
 
@@ -65,10 +66,7 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
 * Discuss Beaglebone Activity components and downloads - 25 minutes
 * Reflection - 10 minutes
 
-  [Beaglebone Presentation]
-
-  [Beaglebone Presentation]: https://drive.google.com/open?id=1GdmE_rNTEK4-4bPZwd8uz173-r5CeTjy
-
+  
 ## March 20th
 * Welcome/Agenda Review - 2 minutes
 * Go over Beaglebone activity presentation - 30
@@ -76,7 +74,7 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
   *  Go over circuit diagram and connect components- 20 minutes
 * Reflection - 10 minutes
 
-  [Beaglebone Presentation]
+
   
  # Week 6
   
