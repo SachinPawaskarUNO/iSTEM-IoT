@@ -105,7 +105,9 @@ UNO iSTEM After School Activity Program for Internet of Things (IoT)
  * Reflection - 10 minutes
   
  # Week 8
-  
+ Post-survey
+ https://www.ist.unomaha.edu/go/istempost 
+ 
  ## April 8th
  * Welcome/Agenda Review - 2 minutes
  * Tour to Peter Kiewit Institute and visit Research Labs - 30 minutes
